@@ -1,4 +1,4 @@
-[![MasterHead](https://s4.gifyu.com/images/ezgif-4-608c09c960.gif)](https://rishavchanda.io)
+[![MasterHead](https://s4.gifyu.com/images/ezgif-4-7276e670d1.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Edin</h1>
 <h3 align="center">A Software Engineering with a knack for problem solving. I enjoy exploring odd/not-so-popular technologies, and facing demanding challenges.</h3>
 
