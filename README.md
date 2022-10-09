@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Edin</h1>
 <h3 align="center">A Software Engineering with a knack for problem solving. I enjoy exploring odd/not-so-popular technologies, and facing demanding challenges.</h3>
 
-<img align="right" alt="Coding" width="230" src="https://media.slid.es/uploads/544390/images/4227755/qiskit-logo-3.gif">
+<img align="right" alt="Coding" width="230" src="https://raw.githubusercontent.com/AkashGutha/Qiskit-Snippets/master/assets/qiskit.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkxscar&label=Profile%20views&color=0e75b6&style=flat" alt="darkxscar" /> </p>
 
 - 🔭 I’m currently working on **3D rendering with OpenGL and Data Analysis with R!**
